@@ -1,0 +1,2 @@
+# TRAFFIC SIGN CLASSIFIER WITH DEEP LEARNING
+This is the solution to the second project in Udacity's Self Driving Car NanoDegree program. The solution implements a multi-layer convolutional neural network with TensorFlow to train a model to identify 43 different types of German traffic sign images. When the training is over, images of German traffic sign that the model had not seen during training are fed to it and its predictions assessed for accuracy. Please refer to Traffic_Sign_Classifier.ipynb for the full implementation and description of the solution.
